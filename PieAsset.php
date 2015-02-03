@@ -7,7 +7,7 @@ use yii\web\AssetBundle;
  * Class D3Asset
  * @package app\assets
  */
-class D3Asset extends AssetBundle
+class PieAsset extends AssetBundle
 {
     /**
      * @var string
