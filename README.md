@@ -31,6 +31,9 @@ Once the extension is installed, simply use it in your code by  :
 <?php echo Pie::widget([
     'id' => 'pie-id',
     'title' => 'Pie Title',
+    'options' => [
+        ...    
+    ],
     'content' => [
         [
             'value' => 10,
@@ -42,9 +45,6 @@ Once the extension is installed, simply use it in your code by  :
             'color' => '#fff',
             'label' => 'Label 2'
         ],
-    ],
-    'options' => [
-        ...    
-    ])
+    ]
 ]); ?>
 ```
