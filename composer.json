@@ -12,8 +12,8 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/d3": "@stable",
-        "bower-asset/d3pie": "@stable"
+        "bower-asset/d3": "*",
+        "bower-asset/d3pie": "*"
     },
     "autoload": {
         "psr-4": {
