@@ -2,6 +2,8 @@ Pie generator
 =============
 Pie generator using d3pie.js
 
+[![Latest Stable Version](https://poser.pugx.org/yii2mod/yii2-pie/v/stable)](https://packagist.org/packages/yii2mod/yii2-pie) [![Total Downloads](https://poser.pugx.org/yii2mod/yii2-pie/downloads)](https://packagist.org/packages/yii2mod/yii2-pie) [![License](https://poser.pugx.org/yii2mod/yii2-pie/license)](https://packagist.org/packages/yii2mod/yii2-pie)
+
 Installation
 ------------
 
